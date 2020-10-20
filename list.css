@@ -1,0 +1,15 @@
+
+
+.done {
+	color : blue;
+	text-decoration: line-through;
+}
+
+.delete {
+	background-color: yellow;
+}
+
+.invidible_li {
+	visibility: hidden;
+	display: none;
+}
